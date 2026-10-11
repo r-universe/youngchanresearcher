@@ -5,6 +5,9 @@
 [submodule "CORAtool"]
 	path = CORAtool
 	url = https://github.com/youngchanresearcher/coratool
+[submodule "NSCA"]
+	path = NSCA
+	url = https://github.com/cran/NSCA
 [submodule "SCAtools"]
 	path = SCAtools
 	url = https://github.com/cran/SCAtools
